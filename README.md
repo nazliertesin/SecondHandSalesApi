@@ -3,9 +3,9 @@
 *This project is a second-hand product sales project.
 *In order to examine the project, you can get tokens with the username and password below, 
 or you can authenticate the system by getting a new user. Also, there is a database script among the files.
-
+#
 *Username=TestUser
-Password=D2D02EA74DE2C9FAB1D802DB969C18D409A8663A9697977BB1C98CCDD9DE4372
+*Password=D2D02EA74DE2C9FAB1D802DB969C18D409A8663A9697977BB1C98CCDD9DE4372
 
 *User passwords are kept in the database as salted hash code as above.
 
